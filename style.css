@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+div{
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    background-color: black;
+    background-image: url("images/OIP.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: fixed;
+    z-index: 1;
+    
+    
+}
